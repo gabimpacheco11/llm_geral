@@ -1,0 +1,13 @@
+langchain==0.3.15
+langchain-community==0.3.15
+langchain-huggingface
+langchainhub
+langchain_chroma
+langchain-ollama
+langchain_openai
+bitsandbytes-cuda110
+bitsandbytes
+
+
+
+
